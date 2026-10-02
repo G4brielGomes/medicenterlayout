@@ -152,7 +152,7 @@ nav a:hover {
     flex: 1;
 }
 .widget_title{
-    margin-top: 30px;
+    margin-top: 20px;
     margin-bottom: 20px;
 }
 .widget_title_text{
@@ -269,9 +269,67 @@ footer .widget_title_text{
 
 .footer_copy{
    border-top: 1px solid #FFFFFF; 
-   color:#FFFFFF;
+   color: #FFFFFF;
    height: 40px;
    line-height: 40px;
     font-size: 12px;
     padding-bottom: 70px;
+}
+
+.blocos{
+    display: flex;
+    font-size: 14px;
+    padding-bottom: 50px;
+    color: #817c7c;
+}
+
+.widget_body{
+    color: #817c7c;
+    font-size: 14px;
+}
+    .widget_body{
+        
+    }
+
+/* PRIMEIRA COLUNA RODAPÉ */
+
+.bloco_um{
+    
+    padding-top: 30px;
+    color: #817c7c;
+    
+}
+
+.bloco_dois{
+    
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-right: 30px;
+    color: #817c7c;
+    
+}
+.bloco_email{
+    color: #FFFFFF;
+}
+
+.segundo_bloco{
+    display: flex;
+}
+/* sEGUNDA COLUNA RODAPÉ */
+.seg_bloco{
+    color:#FFFFFF; 
+    font-size: 14px;
+}
+.blocoum_um_coment{
+    color: #36a9e1;
+    padding-bottom: 14px;
+}
+/* TERCEIRA COLUNA RODAPÉ */
+.ter_bloco{
+    color: #817c7c; 
+    font-size: 14px;
+}
+.blocoum_um_coment{
+    color: #36a9e1;
+    padding-bottom: 14px;
 }
